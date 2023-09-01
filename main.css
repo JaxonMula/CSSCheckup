@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2em;
+
+
+}
+
+
+.body{
+    background-color: black;
+    margin: 2em;
+}
+.toptable{
+position: relative;
+background-color: rgb(88, 67, 25);
+height: 60px;
+width: 60px;
+top: 45px;
+left: 10px;
+margin: 2em;
+border: red;
+}
+
+
+#bowl{
+    position: relative;
+    background-color: grey;
+    height: 15px;
+    width: 35px;
+left: 13px;
+top: -15px;
+border-radius: 0 0 20px 20px;
+}
+
+
+#text{
+    font-family: cursive;
+}
+
+
